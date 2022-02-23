@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K, @No_OnE_Kn0wS_Me & Mrk_YT
+# (c) @FilmygodHindiHDMovie
 
 # the logging things
 import logging
@@ -100,14 +100,14 @@ async def start_me(bot, update):
             [
                 [
                         InlineKeyboardButton("🤔Help", callback_data = "ghelp"),
-                        InlineKeyboardButton('Other Bots🤖', url='https://t.me/Mo_Tech_YT/141')
+                        InlineKeyboardButton('Other Bots🤖', url='https://t.me/FilmygodHindiHDMovie')
                 ],
                 [
-                    InlineKeyboardButton('🗣️ Any Doubt', url='https://t.me/Mo_Tech_Group'),
-                    InlineKeyboardButton('Bot Updates 🤖', url='https://t.me/Mo_Tech_YT')
+                    InlineKeyboardButton('🗣️ Any Doubt', url='https://t.me/FilmygodHindiHDMovie'),
+                    InlineKeyboardButton('Bot Updates 🤖', url='https://t.me/FilmygodHindiHDMovie')
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/wCB2zbwEguA')
+                    InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='FilmygodHindiHDMovie')
                 ]
             ]
         ),
@@ -181,8 +181,8 @@ async def cb_handler(client: Mai_bOTs , query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('👨‍🎓Credits', url="https://t.me/Mai_bOTs"),
-                    InlineKeyboardButton('Editing 👨‍💻', url="https://t.me/Mo_Tech_Group")
+                    InlineKeyboardButton('👨‍🎓Credits', url="https://t.me/FilmygodHindiHDMovie"),
+                    InlineKeyboardButton('Editing 👨‍💻', url="https://t.me/FilmygodSupport")
                 ],
                 [
                     InlineKeyboardButton('🔙 Back', callback_data = "ghelp"),
