@@ -1,7 +1,7 @@
 ##### Deploy
 
 Deploy To Hereku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tgfilmygod02/MT-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tgfilmygod02/RenameBot)
 </pre>
 </p>
 </details>
